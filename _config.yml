@@ -23,7 +23,7 @@ title: Barney Kessel
 tagline: Illuminating A Musical Legacy
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: UMKC Libraries Systems & Technology Department
+description: Demo digital exhibit using CollectionBuilder. Built by UMKC Libraries Systems & Technology.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: umkc, library, exhibits, test, collectionbuilder
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
